@@ -13,3 +13,4 @@ node_js:
 # what scripts to run in pipeline
 script:
   - ./build/build.sh
+  - ./build/automation.sh
