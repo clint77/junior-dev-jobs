@@ -11,7 +11,7 @@ let app = express();
 let db;
 
 let httpListenPort = process.env.PORT || 3000;
-let mongoDbUrl = process.env.MONGO_URL || 'mongodb://localhost/juniordevjobsdb'
+let mongoDbUrl = process.env.MONGO_URL || 'mongodb://localhost/juniordevjobsdb';
 
 MongoClient.connect(mongoDbUrl, function(err, dbConnection) {
   db = dbConnection;
