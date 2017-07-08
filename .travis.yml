@@ -1,8 +1,15 @@
+# language
 language: node_js
+
+# cache directories
 cache:
   directories:
     - "node_modules"
+
+#what version of node to use
 node_js:
   - "node"
+
+# what scripts to run in pipeline
 script:
   - ./build/build.sh
