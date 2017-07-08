@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "node"
+cache:
+  directories:
+    - "node_modules"
+script:
+  - ./build/build.sh
+env:
+  global:
+    secure: snyew8aRsKsozL13A3YJ/fKx2cHVJvn+bgc/uGhluZSkwv3O6XpjVlNjZOboCBbCKX9SOmyYdP6Fqml3K3X3nLx5UlzQmpMncBR1CFVzk02a6x1lSvWO1mBUP/l1CdL/vyo9waZ5ofPSyG7Vuk6/nOIxkZp9ExoKlNputAdamSUZISoVed/22xQV8AHpzOQQhTPp5OlKt7XK1DktIizlcIJb9VrDWkQ5AYB8lsCJ3Nmeb5Ix8U2meDFfCBnt9FU7xT+jtjCLFPGOUsP2ozvHalaJ8aQOrz9jYXj4fwmquxNe/Bv1TviIRhf1TXNy2c1ut8g0RyBks6SYlAOOZpzMHk7Nzcwsl2SWKYR5kFmpF1Jtc/sl9pQ+cP1u7i/OzUn7OGcR6Z/icoJfrugHbe4AYTBPpYXPxcEyLrE9iRzsXT4i1FhMmokBx958v7hpMv8fSAPQS87ytBNFJNU84BlfPzLYERgyV44I9hmVeLvPKW3KO/dK5JQaXn3PKdfFzP/LNgIIPV13R0o/ViGvbjFvbMQj0C7ndjKJ37ZVmxJHRkqn6WE6zLRl6qOuxUJ77xtVV7WDhr8CXWUBOvrneq60Gpofta7NDICJTb8qgujRG7zqoGmfKPmbVjT9n0SrKjss0OBmmJxa36wySeIekiCRPxDc+xfLfuqBmc2vhUVE658=
