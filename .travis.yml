@@ -13,7 +13,7 @@ env:
 
 
 deploy:
-  provider: "heroku"
+  provider: heroku
     api-key:
       secure: "Ke6v4ErAxisc60LCiYLNcF2RZEY3icu+g8AtBcp6UFbfUqd4CldEwdj+E0BNoXG7WyZy98voy6vxmvt2aP2SZ3Kv1IChs6eZK6UHXZlsz5xhS9Oae/4/8ULbIcWdXmhinrcwI+dwiYfd3QTIoL4kFHgmVnpOc++R0hjHsSTYkxL9nMWy47trvuLnOUM0dxqW/upJxf6Yn3G4Tb5lYDLe+QuRdsxhrTOQYXRli1I4CAPbeeeeVvhkOmjaHqCrmgFsFaVu5OB7ZSlDOEbC9KAv2orWhPKpcYEgGrVObGeyA1VlVppHSbY7ORoFnKNE6o9owfMv/6TFaQIIGrJvj5rhNPa2o3wihRS62JYhDe8r4PxNwf9Kovgb0hu9kwWjNI+nXKc0izS74lXiFK2JqACYQMryc23TUeFZnw+LkU2e95TsSqxUOuQy6LKIWM6b51G/gD8cAcySsvQtJtbe0D3juH41AV/Dk++VovdetHfdH4u5OPL9xZtL2zk0rx+exVDtUrmLyULPrq5WZDm07e4llqQrXGVS8EdkrvFKVHJZ2ta0//7RftZ9JM1g9ibr/OKpWpYFvIZ5K97en2egFU7oIIv5YD1thdisoSyfNuLHxFBpzxU4+h+qcuU5guuPf6D771+g2wOHqgdZKD2o09LCEbCfeqobsCyoI80p76QE0NI="
     app: clint77-jdjobs-dev
