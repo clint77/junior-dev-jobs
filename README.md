@@ -4,11 +4,11 @@ Jobs for junior developers
 
 ### Clone the repo
 
-`git clone https://lukemesiti@bitbucket.org/juniordevio/junior_dev_jobs.git`
+`git clone https://lukemesiti@bitbucket.org/juniordevio/junior-dev-jobs.git`
 
 ### Change into folder
 
-`cd junior_dev_jobs`
+`cd junior-dev-jobs`
 
 ### Install
 
